@@ -1,0 +1,7 @@
+img:hover{
+    
+/*altera o conteúdo da imagem para"url(ligado.png)"ao passar o mouse*/
+   content:url('download (1).jfif');
+ 
+}
+
